@@ -1,8 +1,10 @@
 # 42-GNL, by Maxime Rochedy
 
-Here is my implementation of the **Get Next Line (GNL)** project, a fundamental project from the 42 curriculum. The goal of this project is to implement a function that reads a line from a file descriptor until a newline character or the end of the file. This repository contains my full implementation of **GNL**, which received the maximum score of 125/125.
+Here is my implementation of the **Get Next Line (GNL)** project, a fundamental project from the 42 curriculum. The goal of this project is to implement a function that reads a line from a file descriptor until a newline character or the end of the file. This repository contains my full implementation of **GNL**, which received the maximum score of 125/100.
 
 Here, you'll find a carefully crafted version, that was evaluated by three different students, as well as the **Moulinette** correction tool. While every effort was made to ensure the code is bug-free, errors may still exist. Your feedback is highly appreciated!
+
+<img width="198" alt="125/100 grade" src="https://github.com/user-attachments/assets/708486c1-c045-40d6-ab0c-e5dc3650a50d">
 
 ## About the Project
 
